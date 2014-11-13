@@ -9,7 +9,7 @@ import java.net.URL;
 /**
  * Created by rnguyen on 11/13/14.
  */
-public class FlickFetchr {
+public class FlickrFetchr {
 
     byte[] getUrlBytes(String urlSpec) throws IOException {
 
